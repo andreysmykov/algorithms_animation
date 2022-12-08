@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/20164138/206535283-4edfd25e-a246-4e28-
 ## Installation
 
 To successfully install manim, you have to install a few dependencies. Follow the guide:
-[manim](https://github.com/ManimCommunity/ma  nim)
+[manim](https://github.com/ManimCommunity/manim)
 
 Create and activate a virtual environment in the root directory
 ```sh
